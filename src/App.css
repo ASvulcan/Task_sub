@@ -1,0 +1,48 @@
+/* 
+
+.mt-3 {
+  margin-top: 1rem !important;
+}
+
+.text-right {
+  text-align: right;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 900px;
+}
+.ml-auto{
+  position: absolute;
+
+  left: 70%;
+}
+.btn{
+  position: absolute;
+  margin-top: -35px;
+  margin-left: 225px;
+}
+
+.form-inline {
+  flex: 1; 
+}
+
+.form-control {
+  width: 100%; 
+}
+.head-text {
+  position: relative;
+}
+ .head-image{
+  background-image: no-scroll;
+  position: absolute;
+  left: 0%;
+  right: 50%;
+} 
+
+.text-on-image{
+  color: black;
+ position: absolute;
+ top : 80%;
+ right: 30%;
+ left: 30%;
+ 
+} */

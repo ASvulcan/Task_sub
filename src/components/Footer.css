@@ -1,0 +1,35 @@
+/* src/MainContent.css */
+.main-content {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+  }
+  
+  .main-content h1 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .main-content h2 {
+    color: #777;
+    margin-bottom: 20px;
+  }
+  
+  .main-content .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .main-content .content img {
+    max-width: 50%;
+    margin-right: 20px;
+  }
+  
+  .main-content .content p {
+    max-width: 600px;
+    text-align: left;
+    color: #333;
+  }
+  

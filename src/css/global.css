@@ -1,0 +1,27 @@
+
+.custom-navbar {
+    height: auto; 
+  }
+  
+.navbar-logo {
+    max-height: 70px;
+    width: auto; 
+}
+.btn{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 225px;
+}
+.head-image1{
+    position: absolute;
+    left: 5%;
+    right: 0%;
+  }
+  /* .text-on-image1{
+    color: black;
+   position:fixed;
+   top : 90%;
+   right: 30%;
+   left: 30%;
+   
+  }  */
